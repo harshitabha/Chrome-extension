@@ -1,2 +1,2 @@
 # Chrome-extension
-This is my first time doing this so we'll see how it goes.
+This chrome extention allows the user to exchance phrases on their webpage with a particular emoji
